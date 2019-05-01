@@ -1,2 +1,2 @@
 # Learning Summary
-[Tensorpack](tensorpack.md)
+Tensorpack [[note]](tensorpack.md)[[website]](https://tensorpack.readthedocs.io/tutorial/index.html#introduction)
