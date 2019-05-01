@@ -9,7 +9,7 @@
   * Recurrent Neural Network
   * 
 * Traditional Machine Learning
-  * Linear Regression
+  * Linear Regression[[notes]](/notes/machine_learning/linear_regression.md)
   * Logistic Regression
   * Regde Regression and Lasso
   * Principle Components Regression
