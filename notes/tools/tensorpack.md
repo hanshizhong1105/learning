@@ -15,3 +15,4 @@
   * Group into batches
   * prefetch data(iterators)
  
+The preprocess of Tensorpack: /tensorpack/examples/FasterRCNN/utils/data.py
