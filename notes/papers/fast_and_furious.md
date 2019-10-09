@@ -7,9 +7,9 @@ Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecas
 
 ### Key Notes
 * Self-driving has four steps:
-1. Detection
-2. Object tracking
-3. Motion forecasting
-4. Motion planning
+  1. Detection
+  2. Object tracking
+  3. Motion forecasting
+  4. Motion planning
   
 
