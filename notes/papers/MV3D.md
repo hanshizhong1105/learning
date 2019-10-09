@@ -20,6 +20,8 @@ Multi-View 3D Object Detection Network for Autonomous Driving
 * Oriented 3D Box Regression: 8 corners points with 24-D vector regression works better than the centers and sizes with 6-D vector regression. 
 
 ### Key Notes
+
+* LiDAR laser scanners have the advantage of accurate depth information while cameras preserve much more detailed sementic information. 
 * In overall, image-based methods usually perform better than LiDAR-based methods in terms of 2D detection. 
 
 
