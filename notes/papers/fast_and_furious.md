@@ -11,7 +11,7 @@ Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecas
 * Early Fusion: first use a 1D convolution with kernel size n on temporal dimension to reduce to 1, and them perform 2D convolutions by treating the height dimension as the channel dimension.
 * Late Fusion: For each timestamp, the 2D convolution is performed as the early fusion. Then perform 3D convolution with kernel size 3*3*3 for 2 layers without pading on temporal dimension, which can reduce the temporal dimension from n to 1. Final, the 2D spatial convolutions were performed. 
 * The loss is same as the SSD including classificaiton loss and regression loss of bbox over **the current and n-1 future frames**. The regression target including lx, ly, sw, sh, asin, and acos. 
-* The experiments were performed in Uber's inhouse datasets which is 2 orders of magnitude bigger than KITTI. 
+* The experiments were performed in Uber's inhouse dataset which is 2 orders of magnitude bigger than KITTI. 
 
 
 ### Key Notes
