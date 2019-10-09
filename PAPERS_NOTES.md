@@ -17,20 +17,20 @@
 
 - MLF: Multi-Level Fusion based 3D Object Detection from Monocular Images <kbd>CVPR 2018</kbd>
 
-Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving <kbd>ARXIV 2019</kbd>
+- Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving <kbd>ARXIV 2019</kbd>
 
-DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image <kbd>CVPR 2019</kbd>
+- DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image <kbd>CVPR 2019</kbd>
 
-Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving<kbd>ARXIV 2019</kbd>
+- Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving<kbd>ARXIV 2019</kbd>
 
-Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving <kbd>CVPR 2019</kbd>
+- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving <kbd>CVPR 2019</kbd>
 
-3D-CNN：3D Convolutional Neural Networks for Landing Zone Detection from LiDAR <kbd>CVPR 2019</kbd>
+- 3D-CNN：3D Convolutional Neural Networks for Landing Zone Detection from LiDAR <kbd>CVPR 2019</kbd>
 
-L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving <kbd>CVPR 2019</kbd>
+- L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving <kbd>CVPR 2019</kbd>
 
 
 
-Mask RCNN
-Deep Hough Voting for 3D Object Detection in Point Clouds [[note]](notes/papers/hough_voting_3D_detection_point_clouds.md	)[[paper]](https://arxiv.org/pdf/1904.09664.pdf)
+### General Deep Learning
+- Deep Hough Voting for 3D Object Detection in Point Clouds [[note]](notes/papers/hough_voting_3D_detection_point_clouds.md	)[[paper]](https://arxiv.org/pdf/1904.09664.pdf)
  
