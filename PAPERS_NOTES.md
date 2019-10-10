@@ -5,9 +5,9 @@
 
 - Multi-View 3D Object Detection Network for Autonomous Driving  [[note]](notes/papers/MV3D.md	)[[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf) <kbd>CVPR 2017</kbd>
 
-- LIDAR-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks [[paper]](https://arxiv.org/pdf/1809.07941.pdf) <kbd>RAS 2019</kbd>
+- LIDAR-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks[[note]](notes/papers/lidar_camera_fusion_road_detection.md) [[paper]](https://arxiv.org/pdf/1809.07941.pdf) <kbd>RAS 2019</kbd>
 
-- HDNET --- Exploiting HD Maps for 3D Object Detection [[paper]](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf) <kbd>CRL 2018</kbd>
+- HDNET --- Exploiting HD Maps for 3D Object Detection  [[note]](notes/papers/hd_map_detection.md) [[paper]](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf) <kbd>CRL 2018</kbd>
 
 - Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges [[paper]](https://arxiv.org/pdf/1902.07830.pdf) <kbd>ARXIV 2019</kbd>
 
