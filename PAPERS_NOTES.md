@@ -19,15 +19,13 @@
 
 - Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving <kbd>ARXIV 2019</kbd>
 
-- DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image <kbd>CVPR 2019</kbd>
+- [DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
 - Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving<kbd>ARXIV 2019</kbd>
 
-- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving <kbd>CVPR 2019</kbd>
+- [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
-- 3D-CNN：3D Convolutional Neural Networks for Landing Zone Detection from LiDAR <kbd>CVPR 2019</kbd>
-
-- L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving <kbd>CVPR 2019</kbd>
+- [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_L3-Net_Towards_Learning_Based_LiDAR_Localization_for_Autonomous_Driving_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
 
 
