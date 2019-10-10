@@ -1,13 +1,13 @@
 # Paper Reading
 ## LiDAR
 ### 2019-10
-- [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)[[note]](notes/papers/fast_and_furious.md	)<kbd>CVPR 2018</kbd>
+- [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)[[<span style="color:red">note</span>]](notes/papers/fast_and_furious.md	)<kbd>CVPR 2018</kbd>
 
-- [Multi-View 3D Object Detection Network for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf) [[note]](notes/papers/MV3D.md	) <kbd>CVPR 2017</kbd>
+- [Multi-View 3D Object Detection Network for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf) [[<span style="color:red">note</span>]](notes/papers/MV3D.md	) <kbd>CVPR 2017</kbd>
 
-- [LIDAR-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks](https://arxiv.org/pdf/1809.07941.pdf)[[note]](notes/papers/lidar_camera_fusion_road_detection.md)<kbd>RAS 2019</kbd>
+- [LIDAR-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks](https://arxiv.org/pdf/1809.07941.pdf)[[<span style="color:red">note</span>]](notes/papers/lidar_camera_fusion_road_detection.md)<kbd>RAS 2019</kbd>
 
-- [HDNET --- Exploiting HD Maps for 3D Object Detection](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)[[note]](notes/papers/hd_map_detection.md) <kbd>CRL 2018</kbd>
+- [HDNET --- Exploiting HD Maps for 3D Object Detection](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf)[[<span style="color:red">note</span>]](notes/papers/hd_map_detection.md) <kbd>CRL 2018</kbd>
 
 - [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf) <kbd>ARXIV 2019</kbd>
 
