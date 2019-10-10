@@ -1,7 +1,7 @@
 # Paper Reading
 ## LiDAR
 ### 2019-10
-- [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)[[notes]](notes/papers/fast_and_furious.md	)<kbd>CVPR 2018</kbd>
+- [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf) <kbd>CVPR 2018</kbd> [[notes]](notes/papers/fast_and_furious.md)
 
 - [Multi-View 3D Object Detection Network for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf) [[notes]](notes/papers/MV3D.md	) <kbd>CVPR 2017</kbd>
 
