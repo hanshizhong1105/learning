@@ -7,6 +7,7 @@ Multi-View 3D Object Detection Network for Autonomous Driving
 * The framework include two subnetworks: one for 3D object proposal generation and another for multi-view feature fusion. 
 * The proposal network generates 3D candidate boxes from the BEV representation of 3D point cloud. 
 * The deep fusion scheme is proposed to combine region-wise featrues from multiple views and enable interactions between intermediate layers of different paths. 
+* Evaluate on the challenge of KITTI benchmark
 
 ### Contributions:
 * Deep Fusion
