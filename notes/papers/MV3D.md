@@ -1,5 +1,5 @@
 ### Title
-> Multi-View 3D Object Detection Network for Autonomous Driving
+Multi-View 3D Object Detection Network for Autonomous Driving
 
 ### General Idea
 * **2-stage method with bbox proposal network and second stage refinement**
