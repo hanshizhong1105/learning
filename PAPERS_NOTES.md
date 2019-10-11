@@ -9,7 +9,7 @@
 
 - [HDNET --- Exploiting HD Maps for 3D Object Detection](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf) <kbd>CRL 2018</kbd> [[notes]](notes/papers/hd_map_detection.md)
 
-- [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf) <kbd>ARXIV 2019</kbd>
+- [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf) <kbd>ARXIV 2019</kbd> [[notes]](notes/papers/survey_datasets_methods_challange.md)
 
 - Pseudo lidar-e2e: Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud <kbd>ARXIV 2019</kbd>
 
