@@ -23,6 +23,7 @@ This is a survey paper to summary the datasets, methods, and challenges for the 
 * 126 PointPilloars: Fast Encoders for object detection from point clouds
 * 90 AVOD
 * 98 Study the pros and cons for for LIDAR representation
+* 96 Ensemble Proposals
 
 ### Challanges
 * Unity Game Engine to produce more simulated datasets
