@@ -11,21 +11,25 @@
 
 - [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf) <kbd>ARXIV 2019</kbd> [[notes]](notes/papers/survey_datasets_methods_challange.md)
 
-- Pseudo lidar-e2e: Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud <kbd>ARXIV 2019</kbd>
+- [DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
+
+- [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
+
+- [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_L3-Net_Towards_Learning_Based_LiDAR_Localization_for_Autonomous_Driving_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
 - MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization <kbd>AAAI 2019</kbd>
 
 - MLF: Multi-Level Fusion based 3D Object Detection from Monocular Images <kbd>CVPR 2018</kbd>
 
-- Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving <kbd>ARXIV 2019</kbd>
-
-- [DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
-
 - Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving<kbd>ARXIV 2019</kbd>
 
-- [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
+- Pseudo lidar-e2e: Monocular 3D Object Detection with Pseudo-LiDAR Point Cloud <kbd>ARXIV 2019</kbd>
 
-- [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_L3-Net_Towards_Learning_Based_LiDAR_Localization_for_Autonomous_Driving_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
+
+
+- Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving <kbd>ARXIV 2019</kbd>
+
+
 
 
 
