@@ -1,19 +1,19 @@
 # Paper Reading
 ## LiDAR
 ### 2019-10
-- [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf) <kbd>CVPR 2018</kbd> [[notes]](notes/papers/fast_and_furious.md)
+- [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/Luo_Fast_and_Furious_CVPR_2018_paper.pdf) <kbd>CVPR 2018</kbd> [[notes]](notes/fast_and_furious.md)
 
-- [Multi-View 3D Object Detection Network for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)<kbd>CVPR 2017</kbd> [[notes]](notes/papers/MV3D.md	)
+- [Multi-View 3D Object Detection Network for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf)<kbd>CVPR 2017</kbd> [[notes]](notes/MV3D.md	)
 
-- [LIDAR-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks](https://arxiv.org/pdf/1809.07941.pdf)<kbd>RAS 2019</kbd> [[notes]](notes/papers/lidar_camera_fusion_road_detection.md)
+- [LIDAR-Camera Fusion for Road Detection Using Fully Convolutional Neural Networks](https://arxiv.org/pdf/1809.07941.pdf)<kbd>RAS 2019</kbd> [[notes]](notes/lidar_camera_fusion_road_detection.md)
 
-- [HDNET --- Exploiting HD Maps for 3D Object Detection](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf) <kbd>CRL 2018</kbd> [[notes]](notes/papers/hd_map_detection.md)
+- [HDNET --- Exploiting HD Maps for 3D Object Detection](http://proceedings.mlr.press/v87/yang18b/yang18b.pdf) <kbd>CRL 2018</kbd> [[notes]](notes/hd_map_detection.md)
 
-- [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf) <kbd>ARXIV 2019</kbd> [[notes]](notes/papers/survey_datasets_methods_challange.md)
+- [Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf) <kbd>ARXIV 2019</kbd> [[notes]](notes/survey_datasets_methods_challange.md)
 
-- Vehicle Detection With Automotive Radar Using Deep Learning on Range-Azimuth-Doppler Tensors <kbd>ICCV 2019</kbd> [[notes]](notes/papers/qualcomm_radar.md)
+- Vehicle Detection With Automotive Radar Using Deep Learning on Range-Azimuth-Doppler Tensors <kbd>ICCV 2019</kbd> [[notes]](notes/qualcomm_radar.md)
 
-- PointNet++ and PointNet [[notes]](notes/papers/pointnet_plus.md)
+- PointNet++ and PointNet [[notes]](notes/pointnet_plus.md)
 
 - [DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
