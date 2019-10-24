@@ -13,11 +13,13 @@
 
 - Vehicle Detection With Automotive Radar Using Deep Learning on Range-Azimuth-Doppler Tensors <kbd>ICCV 2019</kbd> [[notes]](notes/papers/qualcomm_radar.md)
 
+- PointNet++ and PointNet [[notes]](notes/papers/pointnet_plus.md)
+
 - [DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
 - [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
-- [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_L3-Net_Towards_Learning_Based_LiDAR_Localization_for_Autonomous_Driving_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
+- [L3-Net: Towards Learning based LiDAR Localization for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_L3-Net_Towards_Learning_Based_LiDAR_Localization_for_Autonomous_Driving_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd> 
 
 - MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization <kbd>AAAI 2019</kbd>
 
