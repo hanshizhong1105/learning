@@ -15,6 +15,8 @@
 
 - PointNet++ and PointNet [[notes]](notes/pointnet_plus.md)
 
+- Radar and Camera Early Fusion for Vehicle Detection in Advanced Driver Assistance System [[notes]](notes/radar_camera_early_fusion.md)
+
 - [DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
 - [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
