@@ -17,6 +17,8 @@
 
 - Radar and Camera Early Fusion for Vehicle Detection in Advanced Driver Assistance System [[notes]](notes/radar_camera_early_fusion.md)
 
+- [End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds](https://arxiv.org/pdf/1910.06528.pdf)[[notes]](notes/mvf_lidar_3d_object_detection.md)
+
 - [DeepLiDAR: Deep Surface Normal Guided Depth Prediction for Outdoor Scene from Sparse LiDAR Data and Single Color Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 
 - [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
