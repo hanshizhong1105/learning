@@ -1,5 +1,5 @@
 # Paper Reading
-## LiDAR
+## LiDAR/Rador/camera Fusion
 ### 2019-10
 - [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/Luo_Fast_and_Furious_CVPR_2018_paper.pdf) <kbd>CVPR 2018</kbd> [[notes]](notes/fast_and_furious.md)
 
