@@ -1,6 +1,8 @@
 ### Title
 End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds
 
+![alt text](pictures/mvf_lidar_3d_object_detection.png)
+
 ### Notes
 
 * Synergize the BEV and perspective view
