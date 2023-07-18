@@ -1,4 +1,8 @@
 # Paper Reading
+
+## Segmentation
+### 2023-07
+- [Masked-attention Mask Transformer for Universal Image Segmentation](https://arxiv.org/pdf/2112.01527.pdf) <kbd>CVPR 2022</kbd> [[notes]](notes/mask2former.md)
 ## LiDAR/Rador/camera Fusion
 ### 2019-10
 - [Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net](http://openaccess.thecvf.com/content_cvpr_2018/Luo_Fast_and_Furious_CVPR_2018_paper.pdf) <kbd>CVPR 2018</kbd> [[notes]](notes/fast_and_furious.md)
