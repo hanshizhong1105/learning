@@ -5,5 +5,7 @@ The previous paper MaskFormer has a backbone, a pixel decoder, and a Transformer
 * Transformer-based global cross-attention can slow the convergence. The local features-based transformer is good enough for updating query features.
 * For the cross-attention, the query is learned. The value and key are the image features under transformation.
 * For the masked-attention, the result of the query multiple key will add the Mask before the softmax. The mask is a binary mask. 
-* 
+### What's the improvement for the masked-attention?
+In table 1, there is almost 5 point improvement for segmentation on COCO dataset for panoptic segmentation, compared with maskformer.
+
 
